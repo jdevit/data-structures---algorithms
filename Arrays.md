@@ -1,5 +1,3 @@
-# DSA Study Note Cleaner
-
 ## Arrays: Data Storage and Operations
 
 An array is a data structure that stores a collection of elements, usually of the same data type, in a contiguous block of memory. This contiguity allows for direct, fast access to any element.
